@@ -2,6 +2,8 @@
 My interpretation of an A* pathfinder in p5.js inspired by the coding train youtube channel.
 https://www.youtube.com/watch?v=aKYlikFAV4k
 To change the wall density, adjust the factor of the random condition in the node() function.
+Live demo here:
+https://editor.p5js.org/MarvinSt/full/BR-CbSxOn
 */
 
 function node(x, y) {
